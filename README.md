@@ -9,17 +9,22 @@ __Author:__ Ahmet Melek - www.ahmetmelek.com
 ![Results](https://github.com/ahmetmeleq/Face-Completion---Occlusion-Restoration-GAN/blob/master/results/Results%20500%20Epochs.jpg)
 
 
+
 ### Steps to run the Notebook:
 
 1-Upload notebook to "Colab Notebooks" folder of your Google Drive.
 
 2-Open the notebook in Colab, follow the steps written on the top of the notebook.
 
+
+
 ### Notes
 
 * Check the "Results and Discussion" file under the "results" folder to take a look on the progression of this project.
 
 * In the "others" folder you can find the code I used to occlude images. You don't need it since I provided the pickle files in the cloud.
+
+
 
 
 #### Shared Pickle Data:
