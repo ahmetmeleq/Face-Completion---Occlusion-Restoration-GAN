@@ -15,8 +15,10 @@ __Author:__ Ahmet Melek - www.ahmetmelek.com
 
 2-Open the notebook in Colab, follow the steps written on the top of the notebook.
 
-*Note:* In the "others" folder you can find the code I used to occlude images. You don't need it since I provided the pickle files in the cloud.
 
+* Check the "Results and Discussion" file under the "results" folder to take a look on the progression of this project.
+
+* In the "others" folder you can find the code I used to occlude images. You don't need it since I provided the pickle files in the cloud.
 
 
 #### Shared Pickle Data:
