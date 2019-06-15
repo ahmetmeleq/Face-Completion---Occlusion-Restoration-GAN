@@ -15,6 +15,7 @@ __Author:__ Ahmet Melek - www.ahmetmelek.com
 
 2-Open the notebook in Colab, follow the steps written on the top of the notebook.
 
+### Notes
 
 * Check the "Results and Discussion" file under the "results" folder to take a look on the progression of this project.
 
