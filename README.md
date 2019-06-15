@@ -2,9 +2,8 @@
 
 This is a project to restore occluded parts in a face image.
 
-### Author
 
-* Ahmet Melek - www.ahmetmelek.com 
+__Author:__ Ahmet Melek - www.ahmetmelek.com 
 
 
 ![Results](https://github.com/ahmetmeleq/Face-Completion---Occlusion-Restoration-GAN/blob/master/results/Results%20500%20Epochs.jpg)
