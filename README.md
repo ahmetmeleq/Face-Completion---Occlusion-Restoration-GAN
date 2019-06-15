@@ -2,13 +2,13 @@
 
 This is a project to restore occluded parts in a face image.
 
-![Results](https://github.com/ahmetmeleq/Face-Completion---Occlusion-Restoration-GAN/blob/master/results/Results%20500%20Epochs.jpg)
-
-In the "others" folder you can find the code I used to occlude images. You don't need it since I provided the pickle files in the cloud.
-
 ### Author
 
 * Ahmet Melek - www.ahmetmelek.com 
+
+
+![Results](https://github.com/ahmetmeleq/Face-Completion---Occlusion-Restoration-GAN/blob/master/results/Results%20500%20Epochs.jpg)
+
 
 ### Steps to run the Notebook:
 
@@ -16,7 +16,7 @@ In the "others" folder you can find the code I used to occlude images. You don't
 
 2-Open the notebook in Colab, follow the steps written on the top of the notebook.
 
-
+*Note:* In the "others" folder you can find the code I used to occlude images. You don't need it since I provided the pickle files in the cloud.
 
 
 
