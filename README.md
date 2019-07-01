@@ -27,7 +27,7 @@ __Author:__ Ahmet Melek - www.ahmetmelek.com
 
 
 
-#### Shared Pickle Data:
+#### Shared Dataset (In Pickle Format) :
 
 	Half Faces:
 
